@@ -15,6 +15,7 @@ git push -u origin main
 팀원
 ```
 <<<<<<< HEAD
+<<<<<<< HEAD
 * 주의사항 : 비주얼 스튜디오 코드에서 작업할 때 작업폴더를 항상 루트폴더로 열기 *
 처음 작업할 때
 1. git clone 원격저장소 주소
@@ -44,6 +45,8 @@ git push origin 풀 했던 브랜치 이름
 
 ```
 =======
+=======
+>>>>>>> 6cc1877758c7b4bdff462a3631bdfa19af999351
 * 주의사항 : 비주얼 스튜디오 코드에서 작업할 때 작업폴더를 항상 루트폴더로 열기 *
 처음 작업할 때
 1. git clone 원격저장소 주소
@@ -68,4 +71,4 @@ git checkout develop
 git reset —hard main
 git push -f origin main
 ```
->>>>>>> 4c905bb80e8f3f0f563b37cb54c4fe2a7ec56536
+
