@@ -28,6 +28,7 @@ git push -u origin main
 6. git commit -m ""
 9. git push origin 풀 했던 브랜치 이름
 
+```
 # 배포하기(HEAD 이동, develop(a: 현재 작업 중) -> main(b))
 
 팀장
