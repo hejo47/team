@@ -47,9 +47,12 @@ git push -u origin main
 
 팀장
 ```
-git checkout develop
-git reset —hard main (위험!)
-git push -f origin main
+git pull origin develop
+git merge main
+git add .
+git commit -m "배포"
+git push origin main
+
 ```
 
 https://team-mocha-theta.vercel.app/
